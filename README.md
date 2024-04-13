@@ -1,4 +1,4 @@
-# Hello, I'm Liam,
+# Hello, I'm Liam
 
 ## Introduction
 
